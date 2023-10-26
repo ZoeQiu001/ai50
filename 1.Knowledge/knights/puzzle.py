@@ -1,5 +1,5 @@
 from logic import *
-#a
+
 AKnight = Symbol("A is a Knight")
 AKnave = Symbol("A is a Knave")
 
